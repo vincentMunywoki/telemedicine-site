@@ -2,8 +2,6 @@ Doclab - home
 
 This is a madical html template made by codewithsadee
 
-
-
 #---------- HEADER ----------#
 #---------- SERVICE ----------#
 
