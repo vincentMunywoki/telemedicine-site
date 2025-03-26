@@ -78,7 +78,10 @@ Pulmonology
 Orthopedics
 
 
+aria-label = open menu
+<ion-icon name="menu-outline"></ion-icon>
 
+Make Appointment
 
 #---------- ABOUT ----------#
 #---------- SERVICE ----------#
