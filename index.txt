@@ -31,6 +31,11 @@ aria-label = open menu
 Make Appointment
 
 
+aria-label = open menu
+<ion-icon name="menu-outline"></ion-icon>
+
+Make Appointment
+
 
 #---------- HERO ----------#
 #---------- SERVICE ----------#
