@@ -8,8 +8,6 @@ This is a madical html template made by codewithsadee
 
 alt = Doclab home
 
-alt = Doclab home
-
 aria-label = clsoe menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
 
