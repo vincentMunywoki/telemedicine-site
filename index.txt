@@ -11,11 +11,7 @@ alt = Doclab home
 aria-label = clsoe menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
 
-Home
-Doctors
-Services
-Blog
-Contact
+
 
 <ion-icon name="logo-twitter"></ion-icon>
 <ion-icon name="logo-facebook"></ion-icon>
